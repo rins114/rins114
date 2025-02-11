@@ -57,7 +57,7 @@
 ###
 
 ## Github Stats  
-<table><tr><td valign="top">
+<table><tr><td>
 
 <img src="https://github-readme-stats.vercel.app/api?username=rins114&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
 
