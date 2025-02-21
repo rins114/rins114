@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm RinsDev from localhost<br><br>- 🔭 I’m working as Fronted-End Dev<br>- 📚 I'm currently learning React.JS</p>
+<p align="left">I'm RinsDev from localhost<br><br>- 📚 I'm currently learning React.JS</p>
 
 ###
 
